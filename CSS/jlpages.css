@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+.bg-dark{
+	background-color: #061E40 !important;
+}
+
+.c-container{
+	padding-right: 0px;
+	padding-left: 0px;
+	height: 20%;
+}
+
+.text-container{
+	max-width: 1000px;
+}
+
+.front-page-text{
+	padding-top: 20px;
+}
+
+.footer{
+	background-color:#061E40;
+	height: 60px;
+	padding-top: 1.7em;
+	color: #ffffff;
+	font-size: .7em;
+	text-align: center;
+}
+
+.control-width{
+	max-width: 1200px;
+}
+
+
+.card-container{
+	padding-bottom: 20px;
+}
+
+.card-footer-jl{
+	height:  60px;
+}
+
+.btn-primary{
+	background-color:#204C8A;
+	border-color:#EBA860;
+}
